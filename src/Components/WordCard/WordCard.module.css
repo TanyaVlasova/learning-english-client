@@ -1,0 +1,99 @@
+.wrapper {
+  max-width: 1500px;
+  width: 100%;
+  height: 550px;
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 100px 50px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.word {
+  font-size: 90px;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  text-align: center;
+  word-break: break-all;
+}
+
+.translation {
+  font-size: 70px;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  font-weight: 300;
+  text-align: center;
+  word-break: break-all;
+}
+
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 30px;
+  border: 1px solid;
+  border-radius: 10px;
+  padding: 20px 50px;
+  text-align: center;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.next {
+  font-weight: 700;
+  margin-top: auto;
+}
+
+.end {
+  font-size: 70px;
+  margin: auto;
+  text-align: center;
+}
+
+.plus {
+  position: fixed;
+  bottom: 50px;
+  right: 80px;
+  width: 80px;
+  height: 80px;
+  font-size: 50px;
+  padding: 0;
+  border-radius: 50px;
+}
+
+@media (hover: hover) {
+  .button:hover {
+    background-color: #0000000c;
+  }
+}
+
+@media (max-width: 1024px) {
+  .wrapper {
+    max-height: 400px;
+    padding: 60px 20px;
+  }
+
+  .word {
+    font-size: 60px;
+  }
+
+  .translation {
+    font-size: 40px;
+  }
+
+  .button {
+    font-size: 22px;
+  }
+
+  .end {
+    font-size: 40px;
+  }
+
+  .plus {
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+  }
+}

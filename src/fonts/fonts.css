@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Yandex Sans";
+  src: url("./YandexSansDisplay-Thin.ttf");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Yandex Sans";
+  src: url("./YandexSansDisplay-Light.ttf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Yandex Sans";
+  src: url("./YandexSansDisplay-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Yandex Sans";
+  src: url("./YandexSansDisplay-Bold.ttf");
+  font-weight: 700;
+}
