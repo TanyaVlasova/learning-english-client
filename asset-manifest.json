@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/learning-english/static/css/main.08a61e63.css",
+    "main.js": "/learning-english/static/js/main.edb486e4.js",
+    "static/media/YandexSansDisplay-Light.ttf": "/learning-english/static/media/YandexSansDisplay-Light.6c598accd937fea38926.ttf",
+    "static/media/YandexSansDisplay-Thin.ttf": "/learning-english/static/media/YandexSansDisplay-Thin.b2abd10652b26df1257a.ttf",
+    "static/media/YandexSansDisplay-Bold.ttf": "/learning-english/static/media/YandexSansDisplay-Bold.54cceaa0fa5c4fa6e5c1.ttf",
+    "static/media/YandexSansDisplay-Regular.ttf": "/learning-english/static/media/YandexSansDisplay-Regular.f7b0cd2fb662aa10f1b2.ttf",
+    "index.html": "/learning-english/index.html",
+    "main.08a61e63.css.map": "/learning-english/static/css/main.08a61e63.css.map",
+    "main.edb486e4.js.map": "/learning-english/static/js/main.edb486e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08a61e63.css",
+    "static/js/main.edb486e4.js"
+  ]
+}
